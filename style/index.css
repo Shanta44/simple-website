@@ -1,5 +1,7 @@
-h3{
-    background-color: aquamarine;
-    padding: 20px;
 
+div{
+    background-color: rgb(134, 134, 230);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px ;
 }
